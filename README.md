@@ -1,5 +1,13 @@
 Hi there 👋 I’m Alireza Taaty
  ======
+ DevOps Engineer and Python (Django REST) Developer
+ ---
+
+DevOps Engineer with 2+ years of experience designing scalable infrastructure and deploying applications. Proficient in Python and Django REST frameworks, with expertise in CI/CD pipelines, cloud platforms (AWS/Azure), and automation tools like Docker.
+- 🌱 I’m currently learning **Kubernetes**
+- 📫 How to reach me: alirezataaty02@gmail.com
+- 👯 I'm looking to collaborate on projects related to **DevOps** or **Django REST framework**
+
 
 <!--
 **alirezatcp/alirezatcp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
