@@ -10,7 +10,7 @@ DevOps Engineer with 2+ years of experience designing scalable infrastructure an
 
 <img align='center' src='https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg' />
 
-<br> 
+<br /> 
 
 ### Skills 💪
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -23,11 +23,11 @@ DevOps Engineer with 2+ years of experience designing scalable infrastructure an
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
-<br> 
+<br /> 
 
 ### Social 🤙
-<a href='https://www.linkedin.com/in/alireza-taaty-185492277/'><img src='https://github.com/alirezatcp/alirezatcp/raw/refs/heads/main/linkedin-icon-free-png.webp' width="80" height="80" alt='linkdin' /></a>
-<a href='https://instagram.com/alirezatcp'><img src='https://github.com/alirezatcp/alirezatcp/raw/refs/heads/main/Instagram_icon.png.webp' width="80" height="80" alt='instagram' /></a>
-<a href='https://t.me/alirezatcpp'><img src='https://github.com/alirezatcp/alirezatcp/raw/refs/heads/main/Telegram_logo.svg.webp' width="80" height="80" alt='telegram' /></a>
+<a href='https://www.linkedin.com/in/alireza-taaty-185492277/'><img src='https://github.com/alirezatcp/alirezatcp/raw/refs/heads/main/linkedin-icon-free-png.webp' width="60" height="60" alt='linkdin' /></a>
+<a href='https://instagram.com/alirezatcp'><img src='https://github.com/alirezatcp/alirezatcp/raw/refs/heads/main/Instagram_icon.png.webp' width="60" height="60" alt='instagram' /></a>
+<a href='https://t.me/alirezatcpp'><img src='https://github.com/alirezatcp/alirezatcp/raw/refs/heads/main/Telegram_logo.svg.webp' width="60" height="60" alt='telegram' /></a>
 
 
