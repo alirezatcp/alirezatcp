@@ -26,8 +26,8 @@ DevOps Engineer with 2+ years of experience designing scalable infrastructure an
 <br> 
 
 ### Social 🤙
-<a href='https://www.linkedin.com/in/alireza-taaty-185492277/'><img src='https://github.com/alirezatcp/alirezatcp/raw/refs/heads/main/linkedin-icon-free-png.webp' width="80" height="80"/></a>
-<a href='https://instagram.com/alirezatcp'><img src='https://github.com/alirezatcp/alirezatcp/raw/refs/heads/main/Instagram_icon.png.webp' width="80" height="80"/></a>
-<a href='https://t.me/alirezatcpp'><img src='https://github.com/alirezatcp/alirezatcp/raw/refs/heads/main/Telegram_logo.svg.webp' width="80" height="80"/></a>
+<a href='https://www.linkedin.com/in/alireza-taaty-185492277/'><img src='https://github.com/alirezatcp/alirezatcp/raw/refs/heads/main/linkedin-icon-free-png.webp' width="80" height="80" alt='linkdin' /></a>
+<a href='https://instagram.com/alirezatcp'><img src='https://github.com/alirezatcp/alirezatcp/raw/refs/heads/main/Instagram_icon.png.webp' width="80" height="80" alt='instagram' /></a>
+<a href='https://t.me/alirezatcpp'><img src='https://github.com/alirezatcp/alirezatcp/raw/refs/heads/main/Telegram_logo.svg.webp' width="80" height="80" alt='telegram' /></a>
 
 
