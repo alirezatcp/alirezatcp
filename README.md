@@ -3,7 +3,7 @@ Hi there 👋 I’m Alireza Taaty
  DevOps Engineer and Python (Django REST) Developer 👨🏼‍💻
  ---
 
-DevOps Engineer with 2+ years of experience designing scalable infrastructure and deploying applications. Proficient in Python and Django REST frameworks, with expertise in CI/CD pipelines, cloud platforms (AWS/Azure), and automation tools like Docker.
+With nearly 3 years of experience working in the field of Python and designing websites with Django REST Framework, working with Docker and Docker Compose, Linux (at the Lpic1 level), MySQL database, and basic familiarity with the Nginx web server, and know Git and GitHub.
 - 🌱 I’m currently learning **Kubernetes**
 - 📫 How to reach me: alirezataaty02@gmail.com
 - 👯 I'm looking to collaborate on projects related to **DevOps** or **Django REST framework**
